@@ -1,6 +1,6 @@
 # VectorTileLayer-in-BasemapGallery
 Example how to use VectorTileLayer in BasemapGallery widget
-#Resume
+#Code
 ```javascript
       var basemapGallery = new BasemapGallery({
         showArcGISBasemaps: false,
