@@ -1,4 +1,4 @@
-# VectorTileLayer-in-BasemapGallery
+# VectorTileLayer in BasemapGallery
 Example how to use VectorTileLayer in BasemapGallery widget
 #Code
 ```javascript
